@@ -24,6 +24,11 @@ p {
 	line-height: 1.3em;
 }
 
+ul
+{
+list-style-type: none;
+}
+
 img.logo {
 	width: 100%;
 	height: auto;
