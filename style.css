@@ -26,6 +26,10 @@ p {
 
 ul {
 	list-style-type: none;
+	font-family: "Times New Roman", serif;
+	color: #283276;
+	font-size: 1.8em;
+	line-height: 1.3em;
 }
 
 img.logo {
